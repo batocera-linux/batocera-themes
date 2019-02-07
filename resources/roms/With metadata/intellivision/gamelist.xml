@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<gameList>
+  <provider>
+    <System>Batocera.linux</System>
+    <software>Genetik57</software>
+    <database>batocera-linux.xorhub.com</database>
+    <web>https://batocera-linux.xorhub.com/</web>
+  </provider>
+  <game id="1" source="batocera-linux.xorhub.com">
+    <path>./batocera.rom</path>
+    <name>Batocera Game Test</name>
+    <desc>Just to test the theme</desc>
+    <rating>0.8</rating>
+    <releasedate>20000714T000000</releasedate>
+    <developer>Genetik57</developer>
+    <publisher>Genetik57</publisher>
+    <genre>Test</genre>
+    <players>2</players>
+    <hash>00000000</hash>
+    <image>./media/images/batocera.png</image>
+  </game>
+</gameList>
