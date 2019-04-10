@@ -1,0 +1,24 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+  <!-- Uncomment the line of your choice to change the color of your theme -->
+
+  <!-- <include>./_data/colorsets/black.xml</include> -->
+  <!-- <include>./_data/colorsets/blue.xml</include> -->
+  <!-- <include>./_data/colorsets/bluefade.xml</include> -->
+  <include>./_data/colorsets/bluegray.xml</include>
+  <!-- <include>./_data/colorsets/green.xml</include> -->
+  <!-- <include>./_data/colorsets/greenfade.xml</include> -->
+  <!-- <include>./_data/colorsets/brown.xml</include> -->
+  <!-- <include>./_data/colorsets/brownfade.xml</include> -->
+  <!-- <include>./_data/colorsets/orange.xml</include> -->
+  <!-- <include>./_data/colorsets/orangefade.xml</include> -->
+	<!-- <include>./_data/colorsets/original.xml</include> -->
+  <!-- <include>./_data/colorsets/pink.xml</include> -->
+  <!-- <include>./_data/colorsets/pinkfade.xml</include> -->
+  <!-- <include>./_data/colorsets/purple.xml</include> -->
+  <!-- <include>./_data/colorsets/purplefade.xml</include> -->
+  <!-- <include>./_data/colorsets/red.xml</include> -->
+  <!-- <include>./_data/colorsets/redfade.xml</include> -->
+
+</theme>

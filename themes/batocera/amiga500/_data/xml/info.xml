@@ -1,0 +1,34 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<text name="info1" extra="true">
+			<text>Manufacturer : Commodore</text>
+		</text>
+		<text name="info2" extra="true">
+			<text>Year of Release : 1987</text>
+		</text>
+		<text name="info3" extra="true">
+			<text>OS : AmigaOS 1.2 or 1.3</text>
+		</text>
+		<text name="info4" extra="true">
+			<text>CPU : Motorola 68000 running @ 7.09 MHz</text>
+		</text>
+		<text name="info5" extra="true">
+			<text>RAM : 512 KB (expandable up to 1 MB officially)</text>
+		</text>
+		<text name="info6" extra="true">
+			<text>ROM : Kickstart 1.3</text>
+		</text>
+		<text name="info7" extra="true">
+			<text>GPU : Commodore's Enhanced Chip Set</text>
+		</text>
+		<text name="info8" extra="true">
+			<text>Sound chip : 4 DMA-driven 8-bit channels</text>
+		</text>
+		<text name="info9" extra="true">
+			<text>Resolution : 320x200 (32 colors) to 640x400 (16 colors)</text>
+		</text>
+	</view>
+
+</theme>

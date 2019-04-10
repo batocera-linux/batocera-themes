@@ -1,0 +1,19 @@
+<theme>
+	<formatVersion>4</formatVersion>
+
+	<view name="system">
+		<image name="band1" extra="true">
+			<color>BABBBD</color>
+		</image>
+		<image name="band2" extra="true">
+			<color>AA2C39</color>
+		</image>
+		<image name="band3" extra="true">
+			<color>A7B0B5</color>
+		</image>
+		<image name="band4" extra="true">
+			<color>333333</color>
+		</image>
+	</view>
+
+</theme>

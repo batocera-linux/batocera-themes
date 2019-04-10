@@ -1,0 +1,123 @@
+<theme>
+    <formatVersion>4</formatVersion>
+
+<!-- System View -->
+	<view name="system">
+	<!-- Page Layout -->
+		<image name="background" extra="true">
+			<path>./../images/background/black.png</path>
+		</image>
+
+    <text name="info1, info2, info3, info4, info5, info6, info7, info8, info9, info10" extra="false">
+      <color>FAFAFA</color>
+    </text>
+
+		<image name="bottom" extra="true">
+			<color>2D2D2D</color>
+		</image>
+
+		<helpsystem name="help">
+      <textColor>FAFAFA</textColor>
+      <iconColor>FAFAFA</iconColor>
+		</helpsystem>
+
+	<!-- System Specific Images -->
+		<image name="overlay" extra="true">
+			<color>FAFAFA</color>
+		</image>
+	</view>
+
+
+<!-- Game View - All -->
+    <view name="basic, detailed">
+	<!-- Page Layout -->
+		<image name="background" extra="true">
+			<path>./../images/background/black.png</path>
+		</image>
+
+		<image name="top" extra="true">
+			<color>2D2D2D</color>
+		</image>
+
+		<image name="top-highlight" extra="true">
+			<color>2D2D2D</color>
+		</image>
+
+		<image name="bottom" extra="true">
+			<color>2D2D2D</color>
+		</image>
+
+		<image name="bottom-highlight" extra="true">
+			<color>2D2D2D</color>
+		</image>
+
+    <helpsystem name="help">
+      <textColor>FAFAFA</textColor>
+      <iconColor>FAFAFA</iconColor>
+		</helpsystem>
+
+	<!-- System Specific Images -->
+		<image name="logo">
+		</image>
+
+		<image name="overlay" extra="true">
+			<color>FAFAFA</color>
+		</image>
+
+	<!-- Game List -->
+		<image name="gamelist-matte" extra="true">
+			<color>00000022</color>
+		</image>
+
+		<textlist name="gamelist">
+			<primaryColor>333333</primaryColor>
+			<secondaryColor>333333</secondaryColor>
+			<selectorColor>333333</selectorColor>
+			<selectedColor>DBDBDB</selectedColor>
+		</textlist>
+	</view>
+
+
+<!-- Game View - Basic -->
+	<view name="basic">
+		<image name="overlay" extra="true">
+			<color>00000022</color>
+		</image>
+	</view>
+
+
+<!-- Game View - Detailed -->
+	<view name="detailed">
+	<!-- Game Image -->
+		<image name="image-matte" extra="true">
+			<color>00000022</color>
+		</image>
+
+	<!-- Metadata -->
+		<image name="meta-matte" extra="true">
+			<color>00000022</color>
+		</image>
+
+		<text name="md_lbl_players, md_lbl_genre, md_lbl_developer, md_lbl_publisher, md_lbl_releasedate">
+			<color>FAFAFA</color>
+		</text>
+
+		<text name="md_players, md_genre, md_developer, md_publisher">
+			<color>FAFAFA</color>
+		</text>
+
+		<datetime name="md_releasedate">
+			<color>FAFAFA</color>
+		</datetime>
+
+	<!-- Description -->
+		<image name="description-matte" extra="true">
+			<color>00000022</color>
+		</image>
+
+		<text name="md_description">
+			<color>FAFAFA</color>
+		</text>
+	</view>
+
+</theme>

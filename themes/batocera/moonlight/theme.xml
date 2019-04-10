@@ -1,0 +1,32 @@
+<theme>
+    <formatVersion>4</formatVersion>
+    <include>./../main.xml</include>
+	  <include>./../gamelist-settings.xml</include>
+    <include>./_data/xml/band.xml</include>
+    <include>./_data/xml/info.xml</include>
+
+	<view name="system">
+	<!-- System Specific Images -->
+		<image name="logo">
+			<path>./_data/svg/logo.svg</path>
+    </image>
+
+    <image name="console" extra="true">
+			<path>./_data/svg/console.svg</path>
+      <pos>0.02 0.35</pos>
+			<maxSize>0.30 0.30</maxSize>
+			<origin>0 1</origin>
+		</image>
+  </view>
+
+	<view name="basic, detailed">
+	<!-- System Specific Images -->
+		<image name="logo">
+			<path>./_data/svg/logo.svg</path>
+		</image>
+
+		<image name="overlay" extra="true">
+			<path>./_data/svg/controller.svg</path>
+		</image>
+	</view>
+</theme>
