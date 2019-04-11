@@ -3,7 +3,6 @@ theme :		  Batocera
 version:		1.0.1
 author:			Batocera Team
 website:		https://batocera-linux.xorhub.com/
-license:		CC BY-NC-SA 4.0
 based:      retropie-eudora, retropie-carbon and recalbox
 -->
 
